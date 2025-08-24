@@ -2,7 +2,7 @@
 
 Smart Librarian is a full-stack AI-powered book chatbot that offers personalized recommendations, full book summaries, and multimedia enhancements like text-to-speech and image generation.
 
-![Preview](preview.png)
+![Preview](./public/preview.png)
 
 ---
 
