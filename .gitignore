@@ -38,3 +38,22 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 .venv/
+
+# === Misc ===
+chroma_storage/
+.cache/
+.vite/
+.svelte-kit/
+coverage/
+*.local
+*.lock
+*.tsbuildinfo
+*.tgz
+*.zip
+*.bak
+*.tmp
+*.old
+*.orig
+*.rej
+*.swp
+*~
